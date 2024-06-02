@@ -10,10 +10,6 @@ It is a single-paged mobile application with a header, a search bar with a filte
 
 ![Screenshot of Project](./assets/screenshot.jpg)
 
-## Web View
-
-![Screenshot of Project](./assets/screenshot.jpg)
-
 ## Student Index Number
 
 11314313
