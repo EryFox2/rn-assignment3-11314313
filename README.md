@@ -8,7 +8,7 @@ It is a single-paged mobile application with a header, a search bar with a filte
 
 ## Mobile View
 
-![Screenshot of Project](./assets/screenshot.jpg)
+![Screenshot of Project](./MyApp/assets/screenshot.jpg)
 
 ## Student Index Number
 
