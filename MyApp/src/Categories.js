@@ -4,7 +4,7 @@ import Icons from '@expo/vector-icons/Ionicons';
 export default function Categories() {
     return (
         <View style={styles.container}>
-          <Text>Hello World</Text>
+          <Text style={{fontWeight: "bold", fontSize: 20,}}>Categories</Text>
         </View>
     );
   }

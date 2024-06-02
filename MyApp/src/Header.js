@@ -4,11 +4,11 @@ import Icons from '@expo/vector-icons/Ionicons';
 export default function Header() {
     return (
         <View style={styles.container}>
-          <View style={{flex:2,}}>
+          <View style={{flex:5,}}>
             <Text style={{fontWeight: "bold", fontSize: 32}}>Hello , Devs</Text>
             <Text style={{fontSize: 12}}>15 tasks today</Text>
           </View>
-          <View style={{flex:2,}}>
+          <View style={{flex:1,}}>
             <TouchableHighlight style={styles.ellipse}>
               <Image 
                 style={styles.user}
@@ -25,8 +25,10 @@ export default function Header() {
     container: {
       flex: 1,
       flexDirection: "row",
-      justifyContent: 'center',
-      width: 550,
+      //justifyContent: 'center',
+      width: '100%',
+      height: '12%',
+      margin: 5,
       //fontFamily: 'lato'
     },
     ellipse:{
