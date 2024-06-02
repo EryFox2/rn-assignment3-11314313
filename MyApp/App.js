@@ -1,6 +1,5 @@
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { StyleSheet, Text, View } from 'react-native';
-import SectionOne from './src/Header';
 import Header from './src/Header';
 
 
