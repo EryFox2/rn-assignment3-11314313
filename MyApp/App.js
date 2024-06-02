@@ -3,7 +3,7 @@ import { ScrollView, StyleSheet, Text, View } from 'react-native';
 import Header from './src/Header';
 import SearchBar from './src/SearchBar';
 import Categories from './src/Categories';
-
+import Task from './src/Task';
 
 export default function App() {
   return (
@@ -14,6 +14,7 @@ export default function App() {
             <Header />
             <SearchBar />
             <Categories />
+            <Task />
           </View>
         </ScrollView>
       </SafeAreaView> 
