@@ -34,13 +34,12 @@ export default function SearchBar() {
       flexDirection: "row",
       margin: 5,
       width: '100%',
-      height: '12%'
+      height: '12%',
     },
     innerContainer: {
       flex: 5,
       flexDirection: "row",
       margin: 5,
-      //width: "70%",
       height: 48,
       borderRadius: 14,
       borderWidth: 1,
